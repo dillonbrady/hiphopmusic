@@ -1,0 +1,276 @@
+[
+  {
+    "artist": "Eric B. & Rakim",
+    "title": "I Know You Got Soul",
+    "itunes": "https://itunes.apple.com/nz/album/i-know-you-got-soul/id166997283",
+    "cover": "http://a1.mzstatic.com/nz/r30/Music/v4/d8/45/39/d8453988-22a1-b079-0380-638c7169bbbb/cover400x400.jpeg",
+    "color": "#47738C",
+    "text": "#0A0606",
+    "musicians": [
+      "Eric B.",
+      "Rakim"
+    ]
+  },{
+    "artist": "Digital Underground",
+    "title": "Doowutchyalike",
+    "itunes": "https://itunes.apple.com/us/album/sex-packets/id159363558",
+    "cover": "http://a4.mzstatic.com/us/r30/Music/v4/4d/4d/64/4d4d64de-9d0a-1e95-3147-e42a72e6bfea/cover400x400.jpeg",
+    "color": "#10507E",
+    "text": "#06111F",
+    "musicians": [
+      "Greg (Shock G) Jacobs",
+      "Money-B",
+      "Jeremy (DJ-JZ) Jackson",
+      "DJ Nu-Stylez",
+      "Cleetis (Clee) Mack",
+      "(Iggy) Wilson Junior Zouhouri Mack",
+      "2Fly Eli",
+      "DJ Fuze",
+      "Chopmaster J",
+      "rAN/D (Randy Brooks)",
+      "Michael Webster",
+      "Kent Racker",
+      "Nzazi Malonga",
+      "Schmoovy-Schmoov",
+      "Ramone (Pee Wee) Gooden",
+      "Saafir",
+      "Tupac Shakur",
+      "Esinchill",
+      "BINC",
+      "Young Mass",
+      "Kenny K",
+      "Trace Ellington",
+      "Metaphysical",
+      "Numskull",
+      "Dialect Lector",
+      "Eric (Kenya Gruve) Baker",
+      "Boni Boyer",
+      "Mystic",
+      "DOT",
+      "Roniece Levias",
+      "Big Money Odis",
+      "Kel Mitchell",
+      "Kim Morgan"
+    ]
+  },{
+    "artist": "A Tribe Called Quest featuring Leaders of the New School",
+    "title": "Scenario",
+    "itunes": "https://itunes.apple.com/us/album/the-anthology/id266768420",
+    "cover": "http://a3.mzstatic.com/us/r30/Music69/v4/f5/d0/e5/f5d0e543-627d-8151-4a68-a56666a98af8/cover400x400.jpeg",
+    "color": "#747C7B",
+    "text": "#343437",
+    "musicians": [
+      "Phife Dawg",
+      "Q-Tip", 
+      "Ali Shaheed Muhammad", 
+      "Jarobi White"
+    ]
+  },{
+    "artist": "Dr. Dre feat. Snoop Doggy Dogg",
+    "title": "Nuthin’ But A ‘G’ Thang",
+    "itunes": "https://itunes.apple.com/us/album/the-chronic/id6655622",
+    "cover": "http://a2.mzstatic.com/us/r30/Music/v4/c9/46/43/c94643fb-1b93-0f7c-3370-d1c60e2c5c40/cover400x400.jpeg",
+    "color": "#42578E",
+    "text": "#D57130",
+    "musicians": [
+      "Snoop Doggy Dogg",
+      "Dr. Dre"
+    ]
+  },{
+    "artist": "Beastie Boys",
+    "title": "Hey Ladies",
+    "itunes": "https://itunes.apple.com/us/album/pauls-boutique/id723654366",
+    "cover": "http://a1.mzstatic.com/us/r30/Music/v4/37/fb/54/37fb540b-f819-cdef-d197-960951be8391/cover400x400.jpeg",
+    "color": "#D06B2F",
+    "text": "#2F4051",
+    "musicians": [
+      "John Berry",
+      "Michael (Mike D) Diamond",
+      "Kate Schellenbach",
+      "Adam (MCA) Yauch",
+      "Adam (Adam-Rock) Horovitz"
+    ]
+  },{
+    "artist": "Public Enemy",
+    "title": "Bring the Noise",
+    "itunes": "https://itunes.apple.com/nz/album/bring-the-noise-give-it-up/id267071847",
+    "cover": "http://a1.mzstatic.com/nz/r30/Music/v4/70/11/20/70112034-69e0-5ee2-ba45-457e6ccc9120/cover400x400.jpeg",
+    "color": "#B03239",
+    "text": "#191A18",
+    "musicians": [
+      "Chuck D",
+      "Flavor Flav",
+      "DJ Lord",
+      "Khari Wynn",
+      "The S1W",
+      "Professor Griff",
+      "Davy DMX"
+    ]
+  },{
+    "artist": "Stetsasonic",
+    "title": "Talkin All That Jazz",
+    "itunes": "https://itunes.apple.com/us/album/in-full-gear/id261601699",
+    "cover": "http://a4.mzstatic.com/us/r30/Music/v4/d7/14/6b/d7146b1c-facf-42c6-43e4-0e3537c6995d/cover400x400.jpeg",
+    "color": "#B08865",
+    "text": "#483830",
+    "musicians": [
+      "Prince Paul",
+      "MC Delite",
+      "Frukwan",
+      "Wise",
+      "Daddy-O",
+      "DBC",
+      "Bobby Simmons"
+    ]
+  },{
+    "artist": "Public Enemy (feat. Ice Cube & Big Daddy Kane)",
+    "title": "Burn Hollywood Burn",
+    "itunes": "https://itunes.apple.com/us/album/fear-of-a-black-planet/id1072566100",
+    "cover": "http://a1.mzstatic.com/nz/r30/Music/v4/70/11/20/70112034-69e0-5ee2-ba45-457e6ccc9120/cover400x400.jpeg",
+    "color": "#B4CA68",
+    "text": "#0F404D",
+    "musicians": [
+      "Chuck D",
+      "Flavor Flav",
+      "DJ Lord",
+      "Khari Wynn",
+      "The S1W",
+      "Professor Griff",
+      "Davy DMX",
+      "Ice Cube",
+      "Big Daddy Kane"
+    ]
+  },{
+    "artist": "Eric B. & Rakim",
+    "title": "Follow the Leader",
+    "itunes": "https://itunes.apple.com/us/album/blue-train-bonus-track-version/id724748588",
+    "cover": "http://a5.mzstatic.com/us/r30/Music/v4/f5/2a/0d/f52a0deb-c8d3-cd45-0d4a-36c3fcb05d46/cover400x400.jpeg",
+    "color": "#0C7F90",
+    "text": "#041E1F",
+    "musicians": [
+      "Eric B.",
+      "Rakim"
+    ]
+  },{
+    "artist": "The D.O.C.",
+    "title": "No One Can Do It Better",
+    "itunes": "https://itunes.apple.com/us/album/no-one-can-do-it-better/id79023568",
+    "cover": "http://a3.mzstatic.com/us/r30/Music/v4/84/be/db/84bedbf4-842c-146b-3610-76ec9cffed37/cover400x400.jpeg",
+    "color": "#ED8C42",
+    "text": "#24231B",
+    "musicians": [
+      "Tracy Lynn Curry (The D.O.C.)"
+    ]
+  },{
+    "artist": "Big Daddy Kane",
+    "title": "Raw",
+    "itunes": "https://itunes.apple.com/us/album/long-live-the-kane/id442164816",
+    "cover": "http://a3.mzstatic.com/us/r30/Music/v4/0f/59/20/0f59205f-0ea4-5a2d-379d-91f4a0760035/cover400x400.jpeg",
+    "color": "#6B548B",
+    "text": "#2A231F",
+    "musicians": [
+     "Denzil Best",
+      "Big Daddy Kane"
+    ]
+  },{
+    "artist": "Digable Planets",
+    "title": "Rebirth of Slick (Cool Like Dat)",
+    "itunes": "https://itunes.apple.com/us/music-video/rebirth-of-slick-cool-like-dat/id719807915",
+    "cover": "http://a3.mzstatic.com/us/r30/Video/v4/db/53/6a/db536a38-381e-d31f-4955-9730a4e5ae59/cover400x400.jpeg",
+    "color": "#649B9E",
+    "text": "#212B30",
+    "musicians": [
+      "Butterfly",
+      "Doodlebug",
+      "Ladybug Mecca"
+    ]
+  },{
+    "artist": "OutKast",
+    "title": "Player’s Ball",
+    "itunes": "https://itunes.apple.com/us/album/southernplayalisticadillacmuzik/id266365233",
+    "cover": "http://a3.mzstatic.com/us/r30/Music/v4/0c/fd/5f/0cfd5fb7-4c39-c0cf-b76b-74261fa3a671/cover400x400.jpeg",
+    "color": "#32ADF1",
+    "text": "#0D1D27",
+    "musicians": [
+      "André 3000",
+      "Big Boi"
+    ]
+  },{
+    "artist": "Snoop Doggy Dogg",
+    "title": "Gin and Juice",
+    "itunes": "https://itunes.apple.com/us/album/doggystyle/id6655669",
+    "cover": "http://a4.mzstatic.com/us/r30/Music/v4/8c/80/18/8c80188e-c589-4d4d-dedc-15d4737c004b/cover400x400.jpeg",
+    "color": "#C3A550",
+    "text": "#161A11",
+    "musicians": [
+      "Snoop Doggy Dogg"
+    ]
+  },{
+    "artist": "Tupac Shakur",
+    "title": "Changes",
+    "itunes": "https://itunes.apple.com/us/album/greatest-hits/id310908362",
+    "cover": "http://a2.mzstatic.com/us/r30/Music/v4/85/bb/60/85bb60e1-d325-4b1f-a388-5636a00eec10/cover400x400.jpeg",
+    "color": "#DB6C39",
+    "text": "#120C19",
+    "musicians": [
+      "Tupac Shakur"
+    ]
+  },{
+    "artist": "Dr. Dre and Tupac",
+    "title": "California Love",
+    "itunes": "https://itunes.apple.com/us/album/all-eyez-on-me-remastered/id6917199",
+    "cover": "http://a2.mzstatic.com/us/r30/Music/v4/a5/5c/b7/a55cb705-9a3a-a2d3-c957-02ecb8e708bb/cover400x400.jpeg",
+    "color": "#A2444C",
+    "text": "#49637B",
+    "musicians": [
+      "Dr. Dre",
+      "Tupac Shakur"
+    ]
+  },{
+    "artist": "Express Yourself",
+    "title": "NWA",
+    "itunes":"https://itunes.apple.com/us/album/straight-outta-compton-expanded/id723533705",
+    "cover": "http://a2.mzstatic.com/us/r30/Music6/v4/34/d5/59/34d55917-0b4a-4ef6-4713-14b09ed9d46b/cover400x400.jpeg",
+    "color": "#3D97C5",
+    "text": "#152D45",
+    "musicians": [
+      "Arabian Prince",
+      "DJ Yella",
+      "Dr. Dre",
+      "Eazy-E",
+      "Ice Cube",
+      "MC Ren"
+    ]
+  },{
+    "artist": "Ice Cube",
+    "title": "Bop Gun",
+    "itunes": "https://itunes.apple.com/us/album/greatest-hits/id723559176",
+    "cover": "http://a3.mzstatic.com/us/r30/Music/v4/8a/8c/77/8a8c7739-30fc-f1c2-6a3e-09bb02ccda8b/cover400x400.jpeg",
+    "color": "#3C838D",
+    "text": "#020C09",
+    "musicians": [
+      "Ice Cube"
+    ]
+  },{
+    "artist": "Dr. Dre",
+    "title": "Let Me Ride",
+    "itunes": "https://itunes.apple.com/nz/album/birth-of-the-cool-remastered/id724552390",
+    "cover": "http://a1.mzstatic.com/us/r30/Music/v4/c5/47/19/c5471971-aed3-b477-1340-e246068e2388/00724353011758.400x400.jpg",
+    "color": "#B23035",
+    "text": "#1E1A1E",
+    "musicians": [
+      "Dr. Dre"
+    ]
+  },{
+    "artist": "Pete Rock & C.L. Smooth",
+    "title": "T.R.O.Y.",
+    "itunes": "https://itunes.apple.com/us/album/mecca-and-the-soul-brother/id217508870",
+    "cover": "http://a1.mzstatic.com/us/r30/Music/v4/2b/28/87/2b2887a8-e111-2cdf-f556-78151f341af9/cover400x400.jpeg",
+    "color": "#B07B89",
+    "text": "#28282C",
+    "musicians": [
+      "Pete Rock",
+      "C.L. Smooth"
+    ]
+  }
+]
